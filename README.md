@@ -1,0 +1,1 @@
+THis is my first mini project through The Odin Project. I hope to learn the basics of HTML syntax through coding a simple recipie website. It's exciting to see code come to life!

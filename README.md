@@ -1,1 +1,1 @@
-THis is my first mini project through The Odin Project. I hope to learn the basics of HTML syntax through coding a simple recipie website. It's exciting to see code come to life!
+THis is my first mini project through The Odin Project. I hope to learn the basics of HTML syntax through coding a simple recipie website. It's exciting to see code come to life! I can't seem to get my note to display on the README, so I'm adding this text to test comitting new changes.
